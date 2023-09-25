@@ -1,8 +1,13 @@
-[
-  {
-    "text": "Unlock AI Creative Value with DimAI",
-    "url": "https://www.dimai.ai/",
-    "desktop": "https://raw.githubusercontent.com/Qitmeer/evm_frontend-configs/main/configs/ad-custom-banners/desktop/dimai-desktop.gif",
-    "mobile": "https://raw.githubusercontent.com/Qitmeer/evm_frontend-configs/main/configs/ad-custom-banners/mobile/dimai-mobile.gif"
-  }
-]
+{
+  "banners": [
+    {
+      "text": "Unlock AI Creative Value with DimAI",
+      "url": "https://www.dimai.ai/",
+      "desktop": "https://raw.githubusercontent.com/Qitmeer/evm_frontend-configs/main/configs/ad-custom-banners/desktop/dimai-desktop.gif",
+      "mobile": "https://raw.githubusercontent.com/Qitmeer/evm_frontend-configs/main/configs/ad-custom-banners/mobile/dimai-mobile.gif"
+    }
+  ],
+  "interval": 60000,
+  "randomStart": true,
+  "randomNextAd": false
+}
